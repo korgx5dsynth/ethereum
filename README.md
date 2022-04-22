@@ -9,4 +9,10 @@ the `sequence counter` I documented [here](https://ref.gitbook.io/notes/java-car
 - Describe the two kinds of accounts
 - What is the purpose of the `init` field in a transaction
 - How can you tell if a transaction is a smart contract deployment?
-- 
+- What are the 3 major pieces inside a block?
+- What is the hashing type used in Ethereum?
+- What is the asymmetric cryptography type used in Ethereum?
+- Describe the true (unsolved computer science problem) purpose of a gas?
+- What are the kinds of rewards that a miner receives when it successfully mines a block?
+- Explain something about EIP-1599
+
