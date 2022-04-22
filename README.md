@@ -2,6 +2,8 @@
 
 These were sets of questions I first asked myself and after which to a reasonable degree am able to find and understand their answers. Those who have worked on [Smartcards](https://en.wikipedia.org/wiki/Smart_card) can relate what a `nonce` is to the `sequence counter` I documented [here](https://ref.gitbook.io/notes/java-card/scp02).
 
+Ethereum concepts are built on top of pre-existing old concepts in cryptography and distributed computing. 
+
 - When a smart contract is deployed, describe how the address of the smart contract is derived?
 - How does a wallet cancel a pending transaction?
 - Describe the two gas limits
