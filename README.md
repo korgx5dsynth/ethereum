@@ -15,4 +15,7 @@ the `sequence counter` I documented [here](https://ref.gitbook.io/notes/java-car
 - Describe the true (unsolved computer science problem) purpose of a gas?
 - What are the kinds of rewards that a miner receives when it successfully mines a block?
 - Explain something about EIP-1599
+- How many bytes in an Ethereum account private key?
+- Describe how an account address is derived from a private key
+- Can a smart contract, by itself, create and sign a transaction?
 
