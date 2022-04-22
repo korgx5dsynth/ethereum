@@ -7,3 +7,6 @@ the `sequence counter` I documented [here](https://ref.gitbook.io/notes/java-car
 - How does a wallet cancel a pending transaction?
 - Describe the two gas limits
 - Describe the two kinds of accounts
+- What is the purpose of the `init` field in a transaction
+- How can you tell if a transaction is a smart contract deployment?
+- 
