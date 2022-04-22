@@ -15,7 +15,7 @@ Ethereum concepts are built on top of pre-existing old concepts in cryptography 
 - What is the asymmetric cryptography type used in Ethereum?
 - Describe the true (unsolved computer science problem) purpose of a gas?
 - What are the kinds of rewards that a miner receives when it successfully mines a block?
-- Explain something about EIP-1599
+- Explain something about EIP-1559
 - How many bytes in an Ethereum account private key?
 - Describe how an account address is derived from a private key
 - Can a smart contract, by itself, create and sign a transaction?
