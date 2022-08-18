@@ -17,4 +17,6 @@ These were sets of questions I first asked myself and after which to a reasonabl
 - How many bytes in an Ethereum account private key?
 - Describe how an account address is derived from a private key
 - Can a smart contract, by itself, create and sign a transaction?
-
+- How many types of nonce exist in Ethereum?
+- At what block number was EIP-1559 activated?
+- 
